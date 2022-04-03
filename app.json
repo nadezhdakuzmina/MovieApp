@@ -1,15 +1,15 @@
 {
   "expo": {
-    "name": "UGenius",
-    "slug": "UGenius",
+    "name": "MoveDiary",
+    "slug": "MoveDiary",
     "version": "1.0.0",
     "orientation": "portrait",
     "entryPoint": "./src/index.tsx",
-    "icon": "./src/assets/images/icon.png",
+    "icon": "./src/assets/images/bunny.gif",
     "splash": {
-      "image": "./src/assets/images/splash.png",
+      "image": "./src/assets/images/bunny.gif",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#fbd9e9"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -24,7 +24,7 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./src/assets/images/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
+        "backgroundColor": "#fbd9e9"
       },
       "package": "com.jellyb0y.h0spitality"
     },

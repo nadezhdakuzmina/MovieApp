@@ -1,2 +1,1 @@
-import { PageController } from './Pages';
-export default PageController;
+export { default } from './Pages';

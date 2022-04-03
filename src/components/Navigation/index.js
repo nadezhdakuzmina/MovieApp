@@ -1,0 +1,1 @@
+export { BottomNavigationSimpleUsageShowcase as default } from './Navigation';

@@ -1,13 +1,13 @@
-import React from 'react';
 import { registerRootComponent } from 'expo';
 
 import Layout from 'containers/Layout';
-import PageController from 'containers/Pages';
+import Pages from 'containers/Pages';
 
-export const App: React.FunctionComponent = () => (
+export const App = () => (
   <Layout>
-    <PageController />
+    <Pages />
   </Layout>
 );
 
 export default registerRootComponent(App);
+
